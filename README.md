@@ -10,9 +10,11 @@
 
 ### Neotics OpenUSD · Scene description
 
-This is the [Neotics](https://neotics.io) copy of [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD). We keep this copy so we can build on it.
+[![Neotics kit](https://github.com/neotics-io/neotics-openusd/actions/workflows/neotics.yml/badge.svg)](https://github.com/neotics-io/neotics-openusd/actions/workflows/neotics.yml)
 
-The code here comes from the original project. Credit and copyright stay with its authors, under the project's own licence. Neotics is not affiliated with or endorsed by the original project.
+This is the [Neotics](https://neotics.io) copy of [OpenUSD](https://github.com/PixarAnimationStudios/OpenUSD). The [`neotics`](neotics) folder is our own work: it turns any Neotics scene into a USD stage and animates the arm from a recorded run.
+
+Everything outside the `neotics` folder comes from the original project. Credit and copyright for it stay with its authors, under the project's own licence. Neotics is not affiliated with or endorsed by the original project.
 
 Neotics changed this README to add this section. Every change from the original is listed in [NEOTICS.md](NEOTICS.md).
 
